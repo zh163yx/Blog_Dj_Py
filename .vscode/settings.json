@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "D:\\python3.7\\env\\py_dj\\Scripts\\python.exe"
+=======
+    "python.pythonPath": "/home/zh/Envs/dj_env/bin/python"
+>>>>>>> 40bb0e83eae633ad7a285b1668deb2dd1b36fb58
 }
